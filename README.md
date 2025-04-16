@@ -3,7 +3,8 @@ Kullanıcıların sitelerine BMI hesaplayıcı eklemesini sağlayan basit bir Wo
 
 # BMI Calculator WordPress Plugin
 
-Kullanıcıların sitelerine BMI hesaplayıcı eklemesini sağlayan basit bir WordPress eklentisi.
+Kullanıcıların sitelerine BMI hesaplayıcı eklemesini sağlayan basit bir WordPress eklentisi. 
+Yazar / Demo : https://kiloal.net
 
 ## Kurulum
 1. ZIP dosyasını indirin.
